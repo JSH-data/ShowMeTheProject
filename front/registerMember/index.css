@@ -23,11 +23,11 @@ body {
   grid-template-rows: 1fr 60px 60px 60px 1fr;
   grid-gap: 8px;
   grid-template-areas:
-    "registerChooseLabel"
-    "btnRegisterEmail"
-    "btnRegisterKakao"
-    "btnRegisterGoogle"
-    "loginLabel";
+    'registerChooseLabel'
+    'btnRegisterEmail'
+    'btnRegisterKakao'
+    'btnRegisterGoogle'
+    'loginLabel';
 }
 
 .registerChooseLabel {
@@ -72,4 +72,5 @@ body {
 .loginLink {
   color: var(--font);
   margin-left: 1rem;
+  text-decoration: underline;
 }
