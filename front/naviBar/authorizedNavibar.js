@@ -2,7 +2,7 @@ export function authorizedNaviBar() {
   const authorizedTopNaviBar = document.getElementsByClassName('naviBar')[0];
 
   authorizedTopNaviBar.innerHTML = `
-    <div>
+    <div class="naviBar__left>
         <div class="naviBar__logo">Show Me The Feedback</div>
         <div class="naviBar__elements-container">
             <a class="naviBar--home-link" href="../Projects">홈</a>
