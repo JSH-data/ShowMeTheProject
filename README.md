@@ -4,6 +4,10 @@
 
 ## 1. 프로젝트 소개
 
+### 홈페이지 주소
+
+- [HomePage](https://show-me-the-feedback-frontend.herokuapp.com/)
+
 ### 기술 스택
 
 - Vanilla JS, Node.js, MongoDB
